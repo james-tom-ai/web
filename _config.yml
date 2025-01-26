@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &name "Boris Meinardus"
 description              : &description "personal description"
 url                      : https://james-tom-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "web" # the subpath of your site, e.g. "/blog"
-repository               : "james-tom-ai/web.github.io"
+baseurl                  : "/web" # the subpath of your site, e.g. "/blog"
+repository               : "james-tom-ai/web"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Boris Meinardus"
+  name             : "James Tom"
   avatar           : "Profile_pic2.png"
   bio              : "Multi-Modal Learning \n under Prof. Marcus Rohrbach"
   location         : "Berlin/ Darmstadt, Germany"
